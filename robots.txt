@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sjgant80-hub.github.io/fallkit/sitemap.xml
+Sitemap: https://sjgant80-hub.github.io/fall-architect/sitemap.xml

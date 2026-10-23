@@ -29,5 +29,5 @@ agent-proof (Overseer) · the-wallet (Trust rail). A MATCH is a claim re-checkab
 - The map is fixed and reviewed, so the same list gives the same result on every machine.
 - It maps and advises; it never runs a company, moves money, signs, or sends anything.
 
-Source: https://github.com/sjgant80-hub/fallkit · MIT
+Source: https://github.com/sjgant80-hub/fall-architect · MIT
 Powered by the Konomi architecture, created by Thomas Frumkin.
